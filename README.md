@@ -10,13 +10,8 @@ What You're Creating
 
 # Deliverables 
 This new assignment consists of two technical products. You will submit the following deliverables: 
-
 Deliverable 1: Scrape titles and preview text from Mars news articles. 
-
 Deliverable 2: Scrape and analyze Mars weather data, which exists in a table. 
-
 All required portions of this project are located in the main repo. 
-
 This includes the two notebook files, and a .csv file that is the pandas ddate frame created in part 2. 
-
 This project was made possible with the assistance and editing of ChatGPT
